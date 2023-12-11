@@ -4,7 +4,7 @@ Aplikování češtiny zapíše 7GB dat na SSD - při zaškrtnutí zálohování
 <br/>
 ***https://drive.google.com/drive/folders/19d5s13VPNfk0T0ZI6ymTTpK4bvXlvq2L***
 
-.skript.ahk (Autohotkey v1.1) - ve skriptu v RAR archivu jsem přehlédl jeden řádek a zamýšlená funkčnost skriptu je touto chybou ovlivněna, i když ne zásadně (při držení ESC se vypne hra ale zároveň se pošle ještě jedno ESC do aktuálního programu). Opravený skript je níže
+.skript.ahk (Autohotkey v1.1) - ve skriptu v RAR archivu výše jsem přehlédl jeden řádek a zamýšlená funkčnost skriptu je touto chybou ovlivněna, i když ne zásadně (při držení ESC se vypne hra ale zároveň se pošle ještě jedno ESC do aktuálního programu). Opravený skript je níže
 <br/>
 ***https://github.com/hornster02/Overclocked-2007-CZ/raw/main/script.rar***
 <br/>
