@@ -8,7 +8,7 @@ Aplikování češtiny zapíše 7GB dat na SSD - při zaškrtnutí zálohování
 <br/>
 ***https://github.com/hornster02/Overclocked-2007-CZ/raw/main/script.rar***
 <br/>
--ESC (držet 1 vteřinu) - vypnout hru (nemusí být v popředí)
+-ESC (držet 1 vteřinu) - vypnout hru (nemusí být v popředí a ani reagovat) - pozor tato hra je neobvykle nastavená tak, že při řádném ukončení se provede uložení hry a při dalším spuštění hry se rovnou automaticky načte (bez obvyklých inter a log) - pokud se vypne skriptem a nedojde k uložení, tak při dalším spuštění se automaticky načte starší pozice
 <br/>
 -kolečko myši dolu - ESC
 <br/>
