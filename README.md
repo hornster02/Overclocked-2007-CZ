@@ -1,19 +1,34 @@
-STEAM (2023-12)
+STEAM (2026-10)
 <br/>
-Velikost 200MB https://drive.google.com/drive/folders/19d5s13VPNfk0T0ZI6ymTTpK4bvXlvq2L
+Velikost 10MB https://github.com/hornster02/Overclocked-2007-CZ/raw/main/cz.rar
 
-Postup
+Postup -
 <br/>
--přejmenovat "resource.909" na "resource.905"
+■ nakopírovat obsah RAR do hry a spustit ***1.reg***
 <br/>
--aplikovat CZ patch
-<br/>
--nakopírovat obsah složky "_CZ-PART2" do hry. Steam klient je pro hraní zbytečný
+■ v menu zapnout titulky
 
-Autohotkey v1.1 https://github.com/hornster02/Overclocked-2007-CZ/raw/main/script.rar
+Chyby -
 <br/>
--ESC (držet 1 vteřinu) - vypnout hru (nemusí být v popředí a ani reagovat) - pozor tato hra je neobvykle nastavená tak, že při řádném ukončení se provede uložení hry a při dalším spuštění hry se rovnou automaticky načte (bez obvyklých inter a log) - pokud se vypne skriptem a nedojde k uložení, tak při dalším spuštění se automaticky načte starší pozice
+■ v několika videích chybí pár zbytečných počeštěných slov
+<br/>
+■ rozehrání v EN může vypnout část CZ překladu (např. popis předmětů)
 
--kolečko myši dolu - ESC
 
--kolečko myši nahoru - dvojitý klik
+Autohotkey v1.1 (AHK)
+<br/>
+```CTRL+ALT+INS``` pozastavit/spustit skript (globální klávesa)
+<br/>
+```CTRL+ALT+HOME``` restartovat skript (globální klávesa)
+<br/>
+```Launch_App2``` vypnout hru (stisknout/držet/2x stisknout - globální klávesa) - deaktivováno, uživatelsky specifický komplexnější skript
+<br/>
+```F10``` pozastavit/spustit hru (držet 1 vteřinu/2x stisknout - suspend, globální klávesa)
+<br/>
+```F11``` (držet) zabrání kurzoru myši pohyb mimo aktivní okno - přepínač
+<br/>
+```F12``` (držet) zapnout/vypnout borderless fullscreen - přepínač
+<br/>
+```kolečko myši dolu``` ESC
+<br/>
+```kolečko myši nahoru``` dvojitý klik
